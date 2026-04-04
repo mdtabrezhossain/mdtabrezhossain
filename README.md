@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! Tabrez here.</h1>
-<h3 align="center">Debugging my way through the world of Full‑Stack Web Development.</h3>
+<h1 align="center">Hello World!</h1>
+<h3 align="center">Debugging my way through the world of Web-D</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
